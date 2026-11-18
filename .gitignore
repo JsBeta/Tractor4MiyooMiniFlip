@@ -1,0 +1,18 @@
+# Local build/test artifacts
+/ui.test.exe
+/cpu.out
+*.test
+*.test.exe
+*.out
+
+# Built binaries: the installable copies live in dist/Tractor-MiyooMiniFlip.zip
+/dist/Tractor/tractor-arm
+/dist/Tractor/tractor-arm64
+/dist/Tractor/*.tmp
+
+# Screenshot harness save data
+/shots/.save/
+
+# OS noise
+Thumbs.db
+.DS_Store

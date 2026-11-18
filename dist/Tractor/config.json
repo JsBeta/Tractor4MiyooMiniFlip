@@ -1,0 +1,7 @@
+{
+"label":"拖拉机大战",
+"icon":"icon.png",
+"iconsel":"icon_sel.png",
+"launch":"launch.sh",
+"description":"Tractor for miniflip"
+}
