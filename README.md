@@ -139,3 +139,7 @@ go run ./cmd/tractor -shot out # 生成 752×560 截图
 配色与布局，并用 AI 演示模式跑通发牌、亮主、扣底、出牌，RSS 约 13 MB。按键映射按系统
 `button_config`（L2,L,R2,R,X,A,B,Y）逐项核对。
 
+## 许可证
+
+本项目采用 [Apache License 2.0](LICENSE) 发布，版权归 JsBeta 所有。
+
